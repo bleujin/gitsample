@@ -11,6 +11,6 @@ public class TestHelloWorld extends TestCase{
 	
 	public void testHello() throws Exception {
 		System.out.println("Hello") ;
-		System.out.print(" AD") ;
+		System.out.print(" AD2") ;
 	}
 }
